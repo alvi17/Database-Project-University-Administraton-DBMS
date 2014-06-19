@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+.greenBg{
+	background-color:#0C6;	
+}
+.pinkBg{
+	background-color:#F9C;	
+}
+.blueBg{
+	background-color:#39F;	
+}
+.head {
+    margin:auto;
+} 
+.head img { 
+        width: auto;
+        width: 100%;
+        max-width: 100%;
+        max-height: 100%;
+    }
+.picture{
+    float: right;
+    width:50px;
+    height: 50px;
+    border:1 px solid black;
+}
+#photo{
+    background: #ffff00;
+    border:1px;
+}
